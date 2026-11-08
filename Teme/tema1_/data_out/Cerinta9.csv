@@ -1,0 +1,9 @@
+Cod,Regiune,CelMaiApropiat,Denumire,Tara,Distanta
+RO11,Nord-Vest,CZ04,Severozápad,Cehia,0.7227366865194566
+RO12,Centru,CZ04,Severozápad,Cehia,0.5419475314651705
+RO21,Nord-Est,HU31,Észak-Magyarország,Ungaria,0.8032763000225248
+RO22,Sud-Est,HR02,Panonska Hrvatska,Croatia,0.8828657726899147
+RO31,Sud-Muntenia,HR02,Panonska Hrvatska,Croatia,0.8952630944018576
+RO32,Bucureşti-Ilfov,SK01,Bratislavský kraj,Slovacia,1.9651773721482297
+RO41,Sud-Vest Oltenia,HR02,Panonska Hrvatska,Croatia,0.46054886608022
+RO42,Vest,HU21,Közép-Dunántúl,Ungaria,0.5024008747344991
